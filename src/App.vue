@@ -3,6 +3,7 @@
         <div class="post">
             <div><strong>Название: </strong>Пост о JavaScript</div>
             <div><strong>Описание: </strong>JavaScript универс яз прог</div>
+            <div><strong>Hi: </strong>Hello</div>
         </div>
     </div>
 </template>
